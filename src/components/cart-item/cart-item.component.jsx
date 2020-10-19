@@ -17,4 +17,5 @@ const CartItem = ( {
                 </div>
             </div>
         );
-        export default CartItem;
+        
+export default CartItem;
