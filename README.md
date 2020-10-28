@@ -1,1 +1,1 @@
-It`s a practice from yihua react leaning. Use it and practice I think its the best
+When you deploy a online shop with a peroggraming language, You understand it well.

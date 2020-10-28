@@ -11,7 +11,7 @@ import { selectCurrentUser } from '../../redux/user/user.selectors';
 
 import { ReactComponent as Logo } from '../../assets/crown.svg';
 
-import './header.styles.scss';
+import './header.styles';
 
 import { HeaderContainer, LogoContainer, OptionLink, OptionsContainer } from './header.styles';
 
