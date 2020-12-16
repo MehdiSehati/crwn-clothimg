@@ -1,1 +1,1 @@
-When you deploy a online shop with a peroggraming language, You understand it well.
+best practice for react.
